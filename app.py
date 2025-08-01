@@ -35,7 +35,7 @@ with st.sidebar.expander("ℹ️ What do these mean?"):
     """)
 
 # MAIN
-st.title("📈 Enhanced Real-Time Stock Market Dashboard")
+st.title("📈 Trendly - Smart Stock Market Dashboard")
 st.markdown("View real-time stock prices with interactive **Opening/Closing price trends**, **volume**, and more!")
 
 if symbols:
